@@ -8,11 +8,9 @@
 ---
 
 - 🎓 Estudante de **Ciência da Computação - PUC Minas**
-- 🖥️ Experiência com **Linguagens C-Like, Desenvolvimento de API's e ambientes web completos**
+- 🖥️ Experiência com **Linguagens C-Like,PHP, Desenvolvimento de API's e ambientes web completos**
 - 📈 Atualmente aprendendo **Algoritmos e Estrutura de Dados II e Nest*
-- ⭐ 1x Menção Honrosa **OBMEP**
-- ⭐ 1x Menção Honrosa **OBMEP**
-
+- ⭐ 1x Menção Honrosa **OBI**
 ---
 
 <h3 align="left">🌐 Redes Sociais:</h3>
@@ -30,7 +28,7 @@
 
 | **Languages** | **Web Development** | **Backend & APIs** |
 | :-----------: | :-----------------: | :----------------: |
-| <img src="https://skillicons.dev/icons?i=c,cpp,php,java,js"/> | <img src="https://skillicons.dev/icons?i=html,css,js,php"/> | <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel"/> <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="50"/> |
+| <img src="https://skillicons.dev/icons?i=c,cpp,php,java,js"/> | <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap"/> | <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel"/> <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="50"/> |
 
 | **Databases** | **DevOps & Cloud** | **IDEs & Tools** |
 | :-----------: | :----------------: | :--------------: |
