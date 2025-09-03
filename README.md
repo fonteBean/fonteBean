@@ -1,6 +1,6 @@
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Bem-vindo+ao+meu+GitHub&color=9D00FF"
+    src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Bem-vindo+ao+meu+GitHub&color=0E6E19"
   />
 </h1>
 <h3 align="center">Desenvolvedor de Software</h3>
@@ -30,7 +30,7 @@
 
 | **Languages** | **Web Development** | **Backend & APIs** |
 | :-----------: | :-----------------: | :----------------: |
-| <img src="https://skillicons.dev/icons?i=c,cpp,php,java"/> | <img src="https://skillicons.dev/icons?i=html,css,js,nodejs"/> | <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,apache"/> <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="50"/> |
+| <img src="https://skillicons.dev/icons?i=c,cpp,php,java,js"/> | <img src="https://skillicons.dev/icons?i=html,css,js,php"/> | <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel"/> <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="50"/> |
 
 | **Databases** | **DevOps & Cloud** | **IDEs & Tools** |
 | :-----------: | :----------------: | :--------------: |
@@ -46,7 +46,7 @@
 
 <h3 align="left">📊 Estatísticas do GitHub:</h3>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fonteBeanl&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Langs"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fonteBean&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Langs"/>
 </p>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fonteBean&show_icons=true&locale=en&theme=dark" alt="GitHub Stats"/>
