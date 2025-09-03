@@ -8,7 +8,7 @@
 ---
 
 - 🎓 Estudante de **Ciência da Computação - PUC Minas**
-- 🖥️ Experiência com **Linguagens C-Like,PHP, Desenvolvimento de API's e ambientes web completos**
+- 🖥️ Experiência com **Linguagens C-Like,Desenvolvimento de API's e ambientes web completos e otimizados**
 - 📈 Atualmente aprendendo **Algoritmos e Estrutura de Dados II e Nest*
 - ⭐ 1x Menção Honrosa **OBI**
 ---
