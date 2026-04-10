@@ -8,8 +8,8 @@
 ---
 
 - 🎓 Estudante de **Ciência da Computação - PUC Minas**
-- 🖥️ Experiência com **Linguagens C-Like,Desenvolvimento de API's e ambientes web completos e otimizados**
-- 📈 Atualmente aprendendo **Algoritmos e Estrutura de Dados II e Nest*
+- 🖥️ Experiência com **Linguagens C-Like,Desenvolvimento de API's,Consultoria Sistêmicas em ambientes Fiscais**
+- 📈 Atualmente aprendendo *SAP-TaxOne*
 - ⭐ 1x Menção Honrosa **OBI**
 ---
 
